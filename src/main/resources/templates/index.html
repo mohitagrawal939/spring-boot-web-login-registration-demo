@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymelaef.org">
+<head>
+	<meta charset="ISO-8859-1">
+	<title>Home - Login & Registration</title>
+	<link rel="stylesheet" type="text/css" href="/webjars/bootstrap/css/bootstrap.min.css"/>
+</head>
+<body>
+	<div class="container">
+		<div class="jumbotron text-center">
+			<h1>Welcome To Spring Application</h1>	
+		</div>
+		<div class="text-center">
+			<h3><a th:href="@{/register}">Register</a></h3>
+		</div>
+		<div class="text-center">
+			<h3><a th:href="@{/login}">Login</a></h3>
+		</div>
+		<div class="text-center">
+			<h3><a th:href="@{/list_users}">All Users</a></h3>
+		</div>
+	</div>
+</body>
+</html>
