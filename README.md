@@ -1,14 +1,4 @@
 # spring-boot-web-login-registration-demo
-Flutter Password Keeper Appliction created on windows 10 64 bit And android studio is used for creating app with flutter and dart plugin. User can add different passwords to remember and can check any time as this app works ofline. The data store by app in secured form in device without user permission no one can access secured data. 
-<p float="left"> 
-  <img src="https://github.com/mohitagrawal939/spring-boot-web-login-registration-demo/tree/master/ScreenShots/s1.png" width="200" hspace="20">
-</p>
-<p float="left">
-  <img src="https://github.com/mohitagrawal939/spring-boot-web-login-registration-demo/tree/master/ScreenShots/s2.png" width="200" hspace="20"> 
-</p>
-<p float="left">
-  <img src="https://github.com/mohitagrawal939/spring-boot-web-login-registration-demo/tree/master/ScreenShots/s3.png" width="200" hspace="20"> 
-</p>
-<p float="left"> 
-  <img src="https://github.com/mohitagrawal939/spring-boot-web-login-registration-demo/tree/master/ScreenShots/s4.png" width="200" hspace="20"> 
-</p> 
+This is the demonstration of spring boot authentication with the use of JPA and spring security. This spring boot project also connects with postgreSQL for saving data. It has simple bootstrap 4 UI (Using thymeleaf-template) for working demo.
+
+(You can check screenshots from "screenshot" folder in same repo)
